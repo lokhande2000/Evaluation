@@ -41,6 +41,7 @@ function reportcard(studentsDetails){
     console.log(`|  science -   ${marksOfFiveSub.social_science}                      |`);
     console.log(`|  english -   ${marksOfFiveSub.english}                      |`);
     console.log(`|  hindi   -   ${marksOfFiveSub.hindi}                      |`);
+    console.log(`|  Prectage   -   ${per}               |`);
     console.log("+--------------------------------------+");
 }
 reportcard(studentsDetails);
